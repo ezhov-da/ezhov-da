@@ -9,6 +9,8 @@
 
 My LinkedIn profile: [https://www.linkedin.com/in/ezhovda/](https://www.linkedin.com/in/ezhovda/)
 
+Profile summary: [https://profile-summary-for-github.com/user/ezhov-da](https://profile-summary-for-github.com/user/ezhov-da)
+
 ### My pet projects
 - https://github.com/ezhov-da/rocket-action
 - https://github.com/ezhov-da/duplicate
@@ -30,7 +32,8 @@ My LinkedIn profile: [https://www.linkedin.com/in/ezhovda/](https://www.linkedin
 - https://github.com/ezhov-da/patterns
 
 ### My statistic
-<div align="center">
+
+<div align="left">
     <div>
         <a>
             <img alt="Ezhov github stat"
