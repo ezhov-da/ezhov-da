@@ -13,6 +13,7 @@ My LinkedIn profile: [https://www.linkedin.com/in/ezhovda/](https://www.linkedin
 - https://github.com/ezhov-da/rocket-action
 - https://github.com/ezhov-da/duplicate
 - https://github.com/ezhov-da/umnei-public
+- https://github.com/ezhov-da/feature-toggles
 - https://github.com/ezhov-da/changelog-builder
 - https://github.com/ezhov-da/gist-backup
 - https://github.com/ezhov-da/jpa-editor
@@ -26,6 +27,7 @@ My LinkedIn profile: [https://www.linkedin.com/in/ezhovda/](https://www.linkedin
 - https://github.com/ezhov-da/from-db-to-db
 - https://github.com/ezhov-da/quick-notes
 - https://github.com/ezhov-da/table-destructor
+- https://github.com/ezhov-da/patterns
 
 ### My statistic
 <div align="center">
