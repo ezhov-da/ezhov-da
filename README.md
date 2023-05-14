@@ -21,6 +21,7 @@ Profile summary: [https://profile-summary-for-github.com/user/ezhov-da](https://
 - https://github.com/ezhov-da/jpa-editor
 - https://github.com/ezhov-da/sample-database
 - https://github.com/ezhov-da/db-command-executor
+- https://github.com/ezhov-da/patterns
 - https://github.com/ezhov-da/java-class-visualizer
 - https://github.com/ezhov-da/ssh-utils
 - https://github.com/ezhov-da/usage-graph
@@ -29,7 +30,7 @@ Profile summary: [https://profile-summary-for-github.com/user/ezhov-da](https://
 - https://github.com/ezhov-da/from-db-to-db
 - https://github.com/ezhov-da/quick-notes
 - https://github.com/ezhov-da/table-destructor
-- https://github.com/ezhov-da/patterns
+- https://github.com/ezhov-da/keyboard-fingers
 
 ### My statistic
 
