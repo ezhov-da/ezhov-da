@@ -12,6 +12,8 @@ My LinkedIn profile: [https://www.linkedin.com/in/ezhovda/](https://www.linkedin
 Profile summary: [https://profile-summary-for-github.com/user/ezhov-da](https://profile-summary-for-github.com/user/ezhov-da)
 
 ### My pet projects
+- https://github.com/ezhov-da/checklist
+- https://github.com/ezhov-da/checklist-js
 - https://github.com/ezhov-da/rocket-action
 - https://github.com/ezhov-da/duplicate
 - https://github.com/ezhov-da/umnei-public
