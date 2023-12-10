@@ -12,7 +12,7 @@ My LinkedIn profile: [https://www.linkedin.com/in/ezhovda/](https://www.linkedin
 Profile summary: [https://profile-summary-for-github.com/user/ezhov-da](https://profile-summary-for-github.com/user/ezhov-da)
 
 ### My pet projects
-- https://github.com/ezhov-da/rockaet-action-chrome-extension
+- https://github.com/ezhov-da/rocket-action-chrome-extension
 - https://github.com/ezhov-da/obsidian-time-tracker-template-builder-plugin
 - https://github.com/ezhov-da/obsidian-liquibase-plugin
 - https://github.com/ezhov-da/summary
